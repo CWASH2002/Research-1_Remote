@@ -11,6 +11,7 @@
 		F1BF14A32ADC8BD4002A90E2 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1BF14A22ADC8BD4002A90E2 /* ContentView.swift */; };
 		F1BF14A52ADC8BD7002A90E2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F1BF14A42ADC8BD7002A90E2 /* Assets.xcassets */; };
 		F1BF14A82ADC8BD7002A90E2 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F1BF14A72ADC8BD7002A90E2 /* Preview Assets.xcassets */; };
+		F1CBB24E2ADCDF1B00EF600B /* SecondView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1CBB24D2ADCDF1B00EF600B /* SecondView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +39,7 @@
 		F1BF14A72ADC8BD7002A90E2 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		F1BF14AD2ADC8BD8002A90E2 /* Research-1Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Research-1Tests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F1BF14B72ADC8BD8002A90E2 /* Research-1UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Research-1UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		F1CBB24D2ADCDF1B00EF600B /* SecondView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,6 +90,7 @@
 			children = (
 				F1BF14A02ADC8BD4002A90E2 /* Research_1App.swift */,
 				F1BF14A22ADC8BD4002A90E2 /* ContentView.swift */,
+				F1CBB24D2ADCDF1B00EF600B /* SecondView.swift */,
 				F1BF14A42ADC8BD7002A90E2 /* Assets.xcassets */,
 				F1BF14A62ADC8BD7002A90E2 /* Preview Content */,
 			);
@@ -232,6 +235,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F1CBB24E2ADCDF1B00EF600B /* SecondView.swift in Sources */,
 				F1BF14A32ADC8BD4002A90E2 /* ContentView.swift in Sources */,
 				F1BF14A12ADC8BD4002A90E2 /* Research_1App.swift in Sources */,
 			);
